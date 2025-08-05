@@ -4,6 +4,12 @@ MartialVerse is a global platform to explore the world of martial arts through c
 
 ---
 
+## 📁 Branch Structure
+
+- `main` — contains the **Frontend** code (React + Tailwind + Clerk)
+- `Backendmaster` — contains the **Backend** code (Node.js + Express + MongoDB)
+
+
 ## 🧱 Tech Stack
 
 **Frontend:**
@@ -123,4 +129,5 @@ This will run the frontend at `http://localhost:5173` by default.
 ## 📜 License
 
 MIT — feel free to use and extend.
+
 
