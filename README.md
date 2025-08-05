@@ -120,7 +120,7 @@ This will run the Server  at http://localhost:5000 by default.
 
 ---
 
-## 🧪 Recommended Enhancements
+## 🧪 Future Enhancements
 
 * Add automated tests
 * Optimize SEO metadata
@@ -131,6 +131,7 @@ This will run the Server  at http://localhost:5000 by default.
 ## 📜 License
 
 MIT — feel free to use and extend.
+
 
 
 
