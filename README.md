@@ -13,6 +13,7 @@ MartialVerse is a global platform to explore the world of martial arts through c
 * Tailwind CSS
 * Cloudinary for image storage
 * Lenis for smooth scroll
+* React Parallax for parallax effect
 
 **Backend:**
 
