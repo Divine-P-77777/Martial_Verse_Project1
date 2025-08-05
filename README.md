@@ -100,7 +100,7 @@ FRONTEND_SECRET=
 ```bash
 nodemon index.js
 ```
-##  Server runs at http://localhost:5000 by default.
+This will run the Server  at http://localhost:5000 by default.
 ---
 
 ## 🚀 Deployment
@@ -131,6 +131,7 @@ nodemon index.js
 ## 📜 License
 
 MIT — feel free to use and extend.
+
 
 
 
