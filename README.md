@@ -31,39 +31,7 @@ MartialVerse is a global platform to explore the world of martial arts through c
 
 ## 🔧 Getting Started
 
-### 📦 Backend Setup
 
-#### 1. Navigate to backend folder:
-
-```bash
-cd Backend
-```
-
-#### 2. Install dependencies:
-
-```bash
-npm install
-```
-
-#### 3. Create `.env` file:
-
-```env
-MONGO_URI=your_mongo_connection_uri
-PORT=5000
-PRIMARY_ADMIN_EMAIL=
-CLIENT_ORIGIN=https://electratrust.vercel.app
-CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-FRONTEND_SECRET=
-```
-
-#### 4. Run the server:
-
-```bash
-npm run dev
-```
-
----
 
 ### 💻 Frontend Setup
 
@@ -100,6 +68,40 @@ npm run dev
 This will run the frontend at `http://localhost:5173` by default.
 
 ---
+### 📦 Backend Setup (`Backendmaster` branch)
+
+#### 1. Clone only the backend branch:
+
+```bash
+git clone -b Backendmaster https://github.com/Divine-P-77777/Martial_Verse_Project1.git Backend
+cd Backend
+```
+
+#### 2. Install dependencies:
+
+```bash
+npm install
+```
+
+#### 3. Create `.env` file:
+
+```env
+MONGO_URI=your_mongo_connection_uri
+PORT=5000
+PRIMARY_ADMIN_EMAIL=
+CLIENT_ORIGIN=https://electratrust.vercel.app
+CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+FRONTEND_SECRET=
+```
+
+#### 4. Run the server:
+
+```bash
+nodemon index.js
+```
+##  Server runs at http://localhost:5000 by default.
+---
 
 ## 🚀 Deployment
 
@@ -129,5 +131,6 @@ This will run the frontend at `http://localhost:5173` by default.
 ## 📜 License
 
 MIT — feel free to use and extend.
+
 
 
