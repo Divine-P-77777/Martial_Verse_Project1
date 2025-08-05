@@ -29,7 +29,7 @@ MartialVerse is a global platform to explore the world of martial arts through c
 #### 1. Navigate to backend folder:
 
 ```bash
-cd backend
+cd Backend
 ```
 
 #### 2. Install dependencies:
@@ -63,7 +63,7 @@ npm run dev
 #### 1. Navigate to frontend folder:
 
 ```bash
-cd frontend
+cd Frontend
 ```
 
 #### 2. Install dependencies:
@@ -122,3 +122,4 @@ This will run the frontend at `http://localhost:5173` by default.
 ## 📜 License
 
 MIT — feel free to use and extend.
+
